@@ -96,7 +96,7 @@ For any inquiries or support, feel free to reach out to the developer:
 - Instagram: [@dhrubajyoti.official](https://www.instagram.com/dhrubajyoti.official/)
 - [Developer's Website](https://tx.me/DHRUBDXD)
 
-![Developer's Mini Logo](link-to-mini-logo)
+![Developer's Mini Logo](https://iili.io/J3xxppI.png)
 
 ---
 
