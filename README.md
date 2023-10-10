@@ -1,6 +1,6 @@
 # DXD - App Menu With Lock Screen
 
-![DXD Logo](https://iili.io/J3xxppI.png)
+![DXD Logo](https://iili.io/J3xRRe4.png)
 
 DXD is an interactive app menu with a lock screen feature that provides a seamless user experience. With just a click anywhere on the screen, users can access a lock screen where they will need to enter a PIN (default: 1234) for authentication. Once authenticated, they will be directed to a dynamic app menu displaying real-time clock, weather in Fahrenheit, food section, apps section, and movies section.
 
