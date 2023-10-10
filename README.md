@@ -1,4 +1,3 @@
-
 # DXD - App Menu With Lock Screen
 
 ![DXD Logo](link-to-logo)
