@@ -1,4 +1,3 @@
-# DXD-AppMenu-LockScreen
 
 # DXD - App Menu With Lock Screen
 
