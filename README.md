@@ -91,7 +91,7 @@ Remember, making changes to the code requires a basic understanding of HTML, CSS
 
 ## Contact
 
-For any inquiries or support, feel free to reach out to the developer:
+For any inquiries or support, feel free to reach out to the developer: 
 
 - Instagram: [@dhrubajyoti.official](https://www.instagram.com/dhrubajyoti.official/)
 - [Developer's Website](https://tx.me/DHRUBDXD)
